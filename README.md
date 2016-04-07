@@ -1,5 +1,5 @@
 # CMPE295A
-Master Project 1
+Masters' Project 1
 
 Abstract
 
